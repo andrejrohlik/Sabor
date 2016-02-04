@@ -1,1 +1,1 @@
-print("U direktoriju Sabor nalaze se slijedeće direktoriji: hdz, sdp, most!")
+print("U direktoriju Sabor nalaze se slijedeće direktoriji: hdz, sdp!")
